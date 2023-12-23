@@ -1,4 +1,4 @@
-<br clear="both">
+###
 
 <h1 align="left">OpenUI5 React Template</h1>
 
